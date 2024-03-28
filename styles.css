@@ -3,7 +3,7 @@ body, html {
     margin: 0;
     padding: 0;
     font-family: "EB Garamond", serif;
-    color: #818BAE;
+    color: #809483;
 }
 
 header {
@@ -50,7 +50,7 @@ strong {
 a {
     margin: 0.5rem 0;
     display: block;
-    color: #818BAE;
+    color: #809483;
     text-decoration: none;
 }
 
@@ -69,11 +69,12 @@ p {
 
 .poem {
     text-align: left;
+    font-family: "EB Garamond", serif;
 }
 
 
 .introduction {
-    font-family: "Lato", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 400;
     padding-bottom: 70px;
     text-align: center;
@@ -85,6 +86,7 @@ p {
     margin: 0 auto;
     width: fit-content;
     padding-bottom: 50px;
+    font-family: "Montserrat", serif;
 }
 
 
